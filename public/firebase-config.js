@@ -1,6 +1,6 @@
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCkXDWTyQ9mPzSqlUK1wB5e-xQWgq6RJSs",
+  apiKey: "__________________Enter Your API Key_________________",
   authDomain: "library-management-syste-d2bda.firebaseapp.com",
   projectId: "library-management-syste-d2bda",
   storageBucket: "library-management-syste-d2bda.appspot.com",
@@ -13,3 +13,4 @@ firebase.initializeApp(firebaseConfig);
 
 // Initialize Firestore
 const db = firebase.firestore();
+
