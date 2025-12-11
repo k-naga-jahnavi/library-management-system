@@ -279,27 +279,6 @@ Layouts adjust automatically using Bootstraps flexible grid system.
 
 ---
 
-# 🗺 **Roadmap**
-
-### 🚀 New Features Coming
-
-* [ ] User authentication (Admin / Student)
-* [ ] Due-date reminders + overdue alerts
-* [ ] Categories & tagging
-* [ ] QR codes for each book
-* [ ] CSV import/export
-* [ ] Multi-library support
-
-### 🧪 Technical Upgrades
-
-* [ ] PWA support
-* [ ] Unit testing (Jest)
-* [ ] Better accessibility (WCAG 2.1)
-* [ ] CI/CD pipeline
-
----
-
-
 # 👩‍💻 **Author**
 
 **Kakumani Naga Jahnavi**
