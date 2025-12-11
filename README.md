@@ -33,16 +33,14 @@ A modern, responsive Library Management System built with vanilla JavaScript, Bo
 - **Error Handling** - Graceful error messages and recovery
 - **Performance Optimized** - Efficient data loading and rendering
 
-## 📸 Screenshots
-
-### Dashboard View
-![Dashboard](https://via.placeholder.com/800x450/0a0a0a/ffffff?text=Library+Dashboard+With+Stats)
-
-### Book Management
-![Book Management](https://via.placeholder.com/800x450/0a0a0a/ffffff?text=Book+Collection+Table)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x700/0a0a0a/ffffff?text=Mobile+Responsive+Design)
+📸 Screenshots
+<div align="center">
+🏠 Dashboard Overview
+<img src="Screenshot 2025-12-11 124926.png" alt="Dashboard Screenshot" width="800">
+📖 Book Management Interface
+<img src="Screenshot 2025-12-11 124933.png" alt="Book Management Screenshot" width="800">
+📊 Activity History
+<img src="Screenshot 2025-12-11 124939.png" alt="History Screenshot" width="800"></div>
 
 ## 🛠️ Technology Stack
 
